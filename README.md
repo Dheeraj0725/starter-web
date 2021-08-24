@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 
 can be deployed on a server or local file system.
 
+## Copyright
+
+This is a copyright notice
+
