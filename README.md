@@ -16,5 +16,5 @@ can be deployed on a server or local file system.
 
 ## Copyright
 
-This is a copyright notice. 
+This is a copyright notice. All rights reserved
 
