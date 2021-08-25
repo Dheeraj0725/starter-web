@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Branches and merging
 
 ## Introduction
 
@@ -16,5 +16,5 @@ can be deployed on a server or local file system.
 
 ## Copyright
 
-This is a copyright notice
+This is a copyright notice. 
 
