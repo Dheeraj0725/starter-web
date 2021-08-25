@@ -8,6 +8,7 @@
 # THANKS
 
     Everybody
+	Trying out stash featrue in git
 
 # TECHNOLOGY COLOPHON
 
